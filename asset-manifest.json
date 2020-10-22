@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.75439bba.chunk.css",
+    "main.js": "./static/js/main.ce7cfec8.chunk.js",
+    "main.js.map": "./static/js/main.ce7cfec8.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.1068b2ba.js",
+    "runtime-main.js.map": "./static/js/runtime-main.1068b2ba.js.map",
+    "static/css/2.f524894f.chunk.css": "./static/css/2.f524894f.chunk.css",
+    "static/js/2.3142723e.chunk.js": "./static/js/2.3142723e.chunk.js",
+    "static/js/2.3142723e.chunk.js.map": "./static/js/2.3142723e.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.c3ddbefae9a43377d1f6d24020b782f7.js": "./precache-manifest.c3ddbefae9a43377d1f6d24020b782f7.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.f524894f.chunk.css.map": "./static/css/2.f524894f.chunk.css.map",
+    "static/css/main.75439bba.chunk.css.map": "./static/css/main.75439bba.chunk.css.map",
+    "static/js/2.3142723e.chunk.js.LICENSE.txt": "./static/js/2.3142723e.chunk.js.LICENSE.txt",
+    "static/media/chat.svg": "./static/media/chat.3d79515b.svg",
+    "static/media/checklist.svg": "./static/media/checklist.41c409a9.svg",
+    "static/media/comment.svg": "./static/media/comment.a93a5733.svg",
+    "static/media/email.svg": "./static/media/email.8863cedd.svg",
+    "static/media/facebook.svg": "./static/media/facebook.700dba70.svg",
+    "static/media/filter.svg": "./static/media/filter.c25a009a.svg",
+    "static/media/home.svg": "./static/media/home.5e98d379.svg",
+    "static/media/left-arrow.svg": "./static/media/left-arrow.11bd4edf.svg",
+    "static/media/list.svg": "./static/media/list.5a31e3a9.svg",
+    "static/media/right-arrow.svg": "./static/media/right-arrow.4a29a7c6.svg",
+    "static/media/telephone.svg": "./static/media/telephone.9874dcc8.svg",
+    "static/media/telephoneCircle.svg": "./static/media/telephoneCircle.e1195dfa.svg",
+    "static/media/user.svg": "./static/media/user.007be26d.svg",
+    "static/media/whatsapp.svg": "./static/media/whatsapp.47c77bf1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1068b2ba.js",
+    "static/css/2.f524894f.chunk.css",
+    "static/js/2.3142723e.chunk.js",
+    "static/css/main.75439bba.chunk.css",
+    "static/js/main.ce7cfec8.chunk.js"
+  ]
+}
